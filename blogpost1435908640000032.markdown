@@ -1,0 +1,11 @@
+@Master['_layout/article-page.html']
+
+@Meta Author : U025EPAJV
+Title: Blog Post Date: 2015-07-03 09:30:40 Tags: Blog 
+@EndMeta
+
+@Section['Content']
+
+<@U02S9V10G>: ska mörka ner bakgrunden och ta bort skuggan på fonten så det blir enklare att läsa Hendriks visdoms ord
+
+@EndSection
