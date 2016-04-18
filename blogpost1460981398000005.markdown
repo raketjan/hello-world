@@ -1,0 +1,14 @@
+@Master['_layout/article-page.html']
+
+@Meta Author : U0Q32RQJ2
+Title: Blog Post Date: 2016-04-18 14:09:58 Tags: Blog 
+@EndMeta
+
+@Section['Content']
+
+[blogpost] 
+Det här är en test-post som ska dyka upp i nya bloggen på siten, så man kan blogga loss här om man vill
+1. bra va?
+2. eller hur?
+
+@EndSection
